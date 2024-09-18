@@ -33,8 +33,8 @@ As a consultant, I worked with my team leader, to develop an integrated defense 
 ### 4. Risk Assessment Process:
 
 - I played a key role in organizing and conducting interviews with Boldi AG staff to assess the company’s risk tolerance and gather information about their risk management processes. I tailored my interviews based on the audience:
-   - Management: Focused on their attitude toward risk, how they accepted or mitigated risk, and their decision-making processes.
-   - Engineers: Concentrated on daily operations, changes in systems, and security challenges they encountered.
+   - *Management*: Focused on their attitude toward risk, how they accepted or mitigated risk, and their decision-making processes.
+   - *Engineers*: Concentrated on daily operations, changes in systems, and security challenges they encountered.
 - Using this information, I assessed the suitability of quantitative vs. qualitative risk assessments, recommending the qualitative approach due to the company’s complex and dynamic risk environment.
 
 ### 5. Network Segmentation & Firewall Configuration:
