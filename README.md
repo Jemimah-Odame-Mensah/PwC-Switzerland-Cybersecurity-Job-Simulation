@@ -16,11 +16,13 @@ As a consultant, I worked with my team leader, to develop an integrated defense 
 - During a meeting with Boldi AG’s management, I explained the concept of layered integrated defense. This involves protecting the company's core assets, data, and systems through multiple layers of security measures.
 - I emphasized the importance of not only protecting against deliberate attacks but also preparing for non-intentional risks such as natural disasters or human error.
 - I outlined the common biases companies face, including “blind spots” in their defense mechanisms and the over-reliance on existing systems without regular checks.
+<a href="https://docs.google.com/presentation/d/1DlWPIVTBIKYm57wx2EQWGz_L4aqqS6ye/edit?usp=sharing&ouid=106145505715093302769&rtpof=true&sd=true">Slide Deck</a>
 
 ### 2. Due Care vs. Due Diligence in Risk Management:
 
 - I analyzed Boldi AG’s past approach to cybersecurity and distinguished between "due care" (taking basic security measures) and "due diligence" (proactively managing risks).
 - Through this analysis, I identified that the company’s failure to monitor its offsite backup facility posed a significant risk. This gap in their defense resulted from a lack of due diligence, exposing sensitive data to unauthorized access.
+
 
 ### 3. Risk Mitigation Strategies:
 
@@ -29,6 +31,7 @@ As a consultant, I worked with my team leader, to develop an integrated defense 
     - *Detect*: Utilizing monitoring tools to identify suspicious activity as early as possible.
     - *Prevent*: Installing firewalls and access control systems to block potential threats.
     - *Avoid*: Removing or relocating critical data from high-risk environments when necessary.
+<a href="https://docs.google.com/presentation/d/182kKxssYV4pYzTlF6kYwvNlfarjmAWlD/edit?usp=sharing&ouid=106145505715093302769&rtpof=true&sd=true">Slide Deck</a>
 
 ### 4. Risk Assessment Process:
 
@@ -36,6 +39,7 @@ As a consultant, I worked with my team leader, to develop an integrated defense 
    - *Management*: Focused on their attitude toward risk, how they accepted or mitigated risk, and their decision-making processes.
    - *Engineers*: Concentrated on daily operations, changes in systems, and security challenges they encountered.
 - Using this information, I assessed the suitability of quantitative vs. qualitative risk assessments, recommending the qualitative approach due to the company’s complex and dynamic risk environment.
+<a href="https://docs.google.com/presentation/d/1H3BHxERJ97F-kRnZ6vLCUTZ29CQqtehB/edit?usp=sharing&ouid=106145505715093302769&rtpof=true&sd=true">Slide Deck</a>
 
 ### 5. Network Segmentation & Firewall Configuration:
 
