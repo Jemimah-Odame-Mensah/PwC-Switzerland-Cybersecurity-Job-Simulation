@@ -41,6 +41,8 @@ Finally, I tackled the challenge of network segmentation, where Boldi AG’s IT 
 
 The detailed documentation I provided helped Stefan prepare for a workshop that empowered Boldi AG’s IT team to implement and manage network segmentation effectively. By breaking down complex cybersecurity concepts into actionable insights, I played a key role in advancing Boldi AG’s defense against potential threats.
 
+<a href="https://docs.google.com/document/d/1bI4L7WISxCYP5geQ1SQBA30twQJCuykY/edit?usp=sharing&ouid=106145505715093302769&rtpof=true&sd=true">View Document</a>
+
 ## Results Achieved:
 
 My work on this project was praised by Stefan in a follow-up voicemail, recognizing my contribution to both winning the pitch and successfully delivering a comprehensive risk management solution. This project demonstrated not only my technical expertise in areas like network security, impact analysis, and system configuration but also my ability to think strategically, communicate complex ideas clearly, and solve real-world cybersecurity challenges.
