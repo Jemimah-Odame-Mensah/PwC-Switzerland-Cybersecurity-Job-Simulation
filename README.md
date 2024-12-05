@@ -1,6 +1,6 @@
 # Integrated Cyber Defense and Risk Management Simulation
 
-This documentation showcases my work on PwC Switzerland's Cybersecurity Virtual Experience on Forage.
+This documentation showcases my work on PwC Switzerland's Cybersecurity Virtual Experience on Forage. It outlines my role in developing an integrated cyber defense and risk management strategy for Boldi AG, a family-owned Swiss chemical supplier. Through this simulation, I tackled real-world challenges such as information risk assessments, IT system security baselines, network segmentation, and vulnerability management. By leveraging strategic frameworks and technical expertise, I delivered actionable solutions that enhanced Boldi AG’s cybersecurity posture, showcasing my ability to bridge technical skills and business needs.
 
 ## Project Overview
 
